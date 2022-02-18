@@ -1,0 +1,12 @@
+
+     *** Gitignore ***
+        => Secret things / things that we do not want to share
+
+    Example:
+        test.txt (This file is ignored).
+        .env (This file is ignored).
+        *.txt (all .txt extension file is ignored).
+        !main.txt (this file does not ignored).
+        test?.txt (test1.txt, test2.txt, testN.txt etc ... file is ignored).
+        temp/ (If we have as a name of temp folder, inside temp folder file are ignored).
+
