@@ -6,3 +6,4 @@
 
     => When we face this problem, we should resolve this confict by deleteing same code, which we do not want. 
 */
+console.log(10);
